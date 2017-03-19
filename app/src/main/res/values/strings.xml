@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Proyecto PGL Omayra Valdivia</string>
+    <string name="addNewItem">Añadir un nuevo articulo ToDo</string>
+    <string name="title">Titulo</string>
+    <string name="enterTitle">Introduce el titulo</string>
+    <string name="status">Estado</string>
+    <string name="done">Hecho</string>
+    <string name="notDone">No hecho</string>
+    <string name="priority">Prioridad</string>
+    <string name="low">Bajo</string>
+    <string name="medium">Medio</string>
+    <string name="high">Alto</string>
+    <string name="timeDate">Fecha y hora</string>
+    <string name="chooseDate">Cambiar Fecha</string>
+    <string name="chooseTime">Cambiar Hora</string>
+    <string name="cancel">Cancelar</string>
+    <string name="reset">Limpiar</string>
+    <string name="submit">Guardar</string>
+    <string name="update">Modificar</string>
+
+</resources>

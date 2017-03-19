@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Proyect PGL Omayra Valdivia</string>
+    <string name="addNewItem">Add New ToDo Item</string>
+    <string name="title">Title</string>
+    <string name="enterTitle">Enter title</string>
+    <string name="status">Status</string>
+    <string name="done">Done</string>
+    <string name="notDone">Not Done</string>
+    <string name="priority">Priority</string>
+    <string name="low">Low</string>
+    <string name="medium">Medium</string>
+    <string name="high">High</string>
+    <string name="timeDate">Time and Date</string>
+    <string name="chooseDate">Choose Date</string>
+    <string name="chooseTime">Choose Time</string>
+    <string name="cancel">Cancel</string>
+    <string name="reset">Reset</string>
+    <string name="submit">Submit</string>
+    <string name="update">Update</string>
+
+</resources>
